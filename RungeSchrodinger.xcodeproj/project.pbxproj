@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AB8F61CF29A96CD500C9E689 /* RungeSchrodingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F61CE29A96CD500C9E689 /* RungeSchrodingerApp.swift */; };
 		AB8F61D129A96CD500C9E689 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F61D029A96CD500C9E689 /* ContentView.swift */; };
 		AB8F61D329A96CD600C9E689 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB8F61D229A96CD600C9E689 /* Assets.xcassets */; };
 		AB8F61D729A96CD600C9E689 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB8F61D629A96CD600C9E689 /* Preview Assets.xcassets */; };
@@ -35,7 +34,6 @@
 
 /* Begin PBXFileReference section */
 		AB8F61CB29A96CD500C9E689 /* RungeSchrodinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RungeSchrodinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		AB8F61CE29A96CD500C9E689 /* RungeSchrodingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RungeSchrodingerApp.swift; sourceTree = "<group>"; };
 		AB8F61D029A96CD500C9E689 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AB8F61D229A96CD600C9E689 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB8F61D429A96CD600C9E689 /* RungeSchrodinger.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RungeSchrodinger.entitlements; sourceTree = "<group>"; };
@@ -95,7 +93,6 @@
 		AB8F61CD29A96CD500C9E689 /* RungeSchrodinger */ = {
 			isa = PBXGroup;
 			children = (
-				AB8F61CE29A96CD500C9E689 /* RungeSchrodingerApp.swift */,
 				AB8F61D029A96CD500C9E689 /* ContentView.swift */,
 				AB8F61D229A96CD600C9E689 /* Assets.xcassets */,
 				AB8F61D429A96CD600C9E689 /* RungeSchrodinger.entitlements */,
@@ -260,7 +257,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB8F61D129A96CD500C9E689 /* ContentView.swift in Sources */,
-				AB8F61CF29A96CD500C9E689 /* RungeSchrodingerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
